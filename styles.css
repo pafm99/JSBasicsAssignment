@@ -1,0 +1,87 @@
+.header {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 9px;
+  margin: 10px;
+  position: relative;
+  top: 5px;
+}
+#home a {
+  margin-left: 25px;
+  text-decoration: none;
+  color: #60aecf;
+}
+header h1 {
+  color: #c4d2e1;
+  text-decoration: none;
+}
+.wrapper {
+  background-color: #20355b;
+  margin: 0px auto;
+  width: 970px;
+  padding: 10px;
+}
+.sidebar {
+  background-color: #427b8a;
+  display: inline;
+  border-radius: 9px;
+  color: #60aecf;
+  padding: 5px;
+  margin: 5px;
+  float: left;
+  width: 25%;
+}
+.sidebarul li a{
+  text-decoration: none;
+  color: #60aecf;
+}
+.title {
+  color: #60aecf;
+}
+.cont {
+  color: #2023a5;
+}
+.other {
+  clear: both;
+  background-color: green;
+}
+.main-content {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  padding: 5px;
+  width: 70%;
+  float: left;
+  margin: 5px;
+}
+.footer {
+  background-color: #5f6672;
+  border-radius: 9px;
+  margin: 10px;
+  padding: 5px;
+  clear: both;
+}
+
+#footp {
+  color: lightblue;
+}
+#footp a {
+  text-decoration: none;
+}
+.purple {
+  color: #60aecf;
+}
+.lists {
+  color: blue;
+}
+li {
+  margin: 5px;
+}
+span {
+  color: gray;
+}
+#firstp {
+  padding: 5px;
+}
